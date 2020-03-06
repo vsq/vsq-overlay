@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>vesa@norrbacka.fi</email>
+	</maintainer>
+	<longdescription lang="en">
+		The CloudCross is an open source project for a synchronization between your devices and various cloud storages.
+	</longdescription>
+</pkgmetadata>
